@@ -1,4 +1,5 @@
-<img width="640" height="640" alt="file_0000000028448210a6493e8620bf66eb" src="https://github.com/user-attachments/assets/f9a59189-bf8f-4140-940b-803a4605e99b" />
+<img width="384" height="384" alt="file_0000000014188210a597e713570cc764" src="https://github.com/user-attachments/assets/8a66a6d8-9f96-4ccc-bc20-2374e553377c" />
+
 
 
 ```markdown
